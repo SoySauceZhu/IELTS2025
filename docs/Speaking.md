@@ -1,6 +1,6 @@
 # PART 2 & 3
 
-## Describe a person who always has strong opinion
+## 1. Describe a person who always has strong opinion
 > Describe a person who always has strong opinions.
 > You should say:
 > Who this person is
