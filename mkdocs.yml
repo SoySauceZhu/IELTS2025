@@ -51,3 +51,6 @@ extra:
       link: https://github.com/SoySauceZhu/COMP201
       name: github@SoySauceZhu
 
+nav:
+- Welcome: index.md
+- Speaking: Speaking.md
